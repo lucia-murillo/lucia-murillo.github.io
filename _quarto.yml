@@ -10,6 +10,7 @@ website:
         text: Home
       - about.qmd
       - hobbies.qmd
+      - projects.qmd
 
 format:
   html:
