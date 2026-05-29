@@ -1,6 +1,4 @@
 ---
 title: "Resume"
-editor: source
+editor: visual
 ---
-{{< pdf resume.pdf >}}
-
