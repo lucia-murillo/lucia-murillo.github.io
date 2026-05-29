@@ -1,0 +1,6 @@
+---
+title: "Resume"
+editor: source
+---
+{{< pdf resume.pdf >}}
+
