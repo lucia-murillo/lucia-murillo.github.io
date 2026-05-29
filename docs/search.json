@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "{{&lt; pdf resume.pdf &gt;}}"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lucia Murillo",
