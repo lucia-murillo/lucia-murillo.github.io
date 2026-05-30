@@ -7,8 +7,10 @@ I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angele
 
 Cleo
 ![cleo](cleo.png){group="pets"}
+
 Sonny
 ![sonny](sonny.png){group="pets"}
+
 Herb
 ![herb](herb.png){group="pets"}
 
