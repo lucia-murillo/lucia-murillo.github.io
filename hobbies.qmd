@@ -1,4 +1,17 @@
 ---
 title: "My hobbies and interests"
 editor: visual
+lightbox: true 
 ---
+
+## Rock climbing 
+
+## Animals 
+
+## Coffee and pastries (my top recommendations)
+
+## Concerts 
+I love concerts, and I try to go to as many as possible! My favorite is Camp Flog Gnaw, which is a yearly festival put on by Tyler, the Creator at Dodger stadium. I have gone for the last three years and plan to be there again this November! 
+
+![Childish Gambino ](gambino.JPG){group="cfg"}
+![My friends and I](flog-friends.JPG){group="cfg"}
