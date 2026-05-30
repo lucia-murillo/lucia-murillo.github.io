@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "{{&lt; pdf resume.pdf &gt;}}"
+    "text": "I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my two dogs and tortoise!\nCleo\nSonny\nHerb"
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About me",
+    "section": "Goals",
+    "text": "Goals\nI am a huge animal lover, and really interested in working with animals or researching them in the future. I also have a strong interest in education, and have spent my last three summers working at summer camps, along with taking classes in outdoor education. Last summer I also interned at the Wildlife Learning Center, a rescue for animals that are deemed non-releasable. I loved my experience, and included some of my favorite “coworkers” below.\nKona- Melanistic Red Fox  Sweetcheeks- Red Tegu  Alby- North American Porcupine  Ruger- Giraffe  Topanga- Gopher Snake"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "My hobbies and interests",
+    "section": "",
+    "text": "I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I have gone to Joshua Tree the past two winters to climb outdoors."
+  },
+  {
+    "objectID": "hobbies.html#rock-climbing",
+    "href": "hobbies.html#rock-climbing",
+    "title": "My hobbies and interests",
+    "section": "",
+    "text": "I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I have gone to Joshua Tree the past two winters to climb outdoors."
+  },
+  {
+    "objectID": "hobbies.html#coffee-and-pastries-my-top-recommendations",
+    "href": "hobbies.html#coffee-and-pastries-my-top-recommendations",
+    "title": "My hobbies and interests",
+    "section": "Coffee and pastries (my top recommendations)",
+    "text": "Coffee and pastries (my top recommendations)\nI have recently been very into cinnamon rolls and I love to go out for coffee or tea in the mornings! Here are my top places at home and at school.\n\nPasadena\nBadash Bakes- matcha and classic cinnamon rolls \nJones Coffee- home of my favorite chai latte ever! \n\n\nSanta Barbara\nBrass Bird- my current favorite cinnamon roll, accompanied by a cinnamon roll latte and a strawberry matcha latte (all delicious)"
+  },
+  {
+    "objectID": "hobbies.html#concerts",
+    "href": "hobbies.html#concerts",
+    "title": "My hobbies and interests",
+    "section": "Concerts",
+    "text": "Concerts\nI love concerts, and I try to go to as many as possible! My favorite is Camp Flog Gnaw, which is a yearly festival put on by Tyler, the Creator at Dodger stadium. I have gone for the last three years and plan to be there again this November. Some pictures from 2025 (of A$AP Rocky and Childish Gambino) are below!"
   },
   {
     "objectID": "index.html",

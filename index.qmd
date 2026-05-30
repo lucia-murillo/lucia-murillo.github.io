@@ -1,5 +1,10 @@
 ---
 title: "Lucia Murillo"
+image: climb.JPG
+toc: false 
+about:
+  template: trestles
+  
 ---
 
 Hello, thanks for visiting my page! My name is Lucia Murillo, and I am from Pasadena, CA. I am currently working on completing my Bachelors of Science in Environmental Studies at UC Santa Barbara with a plan of concentrating in Marine Science. This website acts as a portfolio of the skills I have gained while at UCSB as well as a view into my life and interests! 
