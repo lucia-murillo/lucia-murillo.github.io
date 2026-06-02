@@ -18,7 +18,8 @@ format:
     theme: 
     - morph 
     - brand
-    css: styles.css
+    - styles.scss
+    mainfont: Noto Serif
     toc: true
     page-layout: full 
 
