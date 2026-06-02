@@ -2,31 +2,38 @@
 title: "About me"
 lightbox: true 
 ---
-## edit photo sizes?
 
-I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my two dogs and tortoise! 
+I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my family, two dogs and tortoise! 
 
 Cleo
-![cleo](cleo.png)
+![cleo](images/cleo.png)
 
 Sonny
-![sonny](sonny.png)
+![sonny](images/sonny.png)
 
 Herb
-![herb](herb.png)
+![herb](images/herb.png)
 
 ## Goals
 
 I am a huge animal lover, and really interested in working with animals or researching them in the future. I also have a strong interest in education, and have spent my last three summers working at summer camps, along with taking classes in outdoor education. Last summer I also interned at the Wildlife Learning Center, a rescue for animals that are deemed non-releasable. I loved my experience, and included some of my favorite "coworkers" below. 
 
 Kona- Melanistic Red Fox 
-![kona](kona.png)
+![kona](images/kona.png)
 Sweetcheeks- Red Tegu 
-![sweets](sweets.PNG)
+![sweets](images/sweets.PNG)
+
 Alby- North American Porcupine
-![alby](alby.png)
+![alby](images/alby.png)
 Ruger- Giraffe
-![ruger](ruger.png)
+![ruger](images/ruger.png)
 Topanga- Gopher Snake 
-![topanga](topanga.png)
+![topanga](images/topanga.png)
+
+## Concerts 
+
+I love concerts, and I try to go to as many as possible! My favorite is Camp Flog Gnaw, which is a yearly festival put on by Tyler, the Creator at Dodger stadium. I have gone for the last three years and plan to be there again this November. Some pictures from 2025 (of A\$AP Rocky and Childish Gambino) are below!
+
+![Childish Gambino](images/gambino.JPG){group="cfg"} 
+![A$AP Rocky](images/rocky.png){group="cfg"}
 

@@ -7,7 +7,7 @@ about:
   image: rounded
   links:
     - text: LinkedIn
-      href: https://linkedin.com/in/lucia-murillo/
+      href: www.linkedin.com/in/lucia-murillo-34b604240
       target: _blank
     - text: GitHub
       href: https://github.com/lucia-murillo
