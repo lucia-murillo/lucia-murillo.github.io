@@ -1,11 +1,19 @@
 ---
 title: "Lucia Murillo"
-image: climb.JPG
+image: images/climb.JPG
 toc: false 
 about:
   template: trestles
-  
+  image: rounded
+  links:
+    - text: LinkedIn
+      href: https://linkedin.com/in/lucia-murillo/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/lucia-murillo
+      target: _blank
+    - text: Email
+      href: mailto:luciaviola@gmail.com
 ---
-
 Hello, thanks for visiting my page! My name is Lucia Murillo, and I am from Pasadena, CA. I am currently working on completing my Bachelors of Science in Environmental Studies at UC Santa Barbara with a plan of concentrating in Marine Science. This website acts as a portfolio of the skills I have gained while at UCSB as well as a view into my life and interests! 
 

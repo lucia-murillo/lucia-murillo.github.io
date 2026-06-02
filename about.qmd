@@ -2,6 +2,7 @@
 title: "About me"
 lightbox: true 
 ---
+## edit photo sizes?
 
 I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my two dogs and tortoise! 
 
