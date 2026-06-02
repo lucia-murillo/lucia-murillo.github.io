@@ -15,12 +15,25 @@ website:
 
 format:
   html:
-    theme: 
-    - morph 
-    - brand
-    css: styles.css
+    theme: styles.scss 
+    mainfont: Noto Serif
     toc: true
     page-layout: full 
+    
+links:
+    - icon: linkedin 
+      text: LinkedIn
+      href: www.linkedin.com/in/lucia-murillo-34b604240
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/lucia-murillo
+      target: _blank
+    - icon: envelope
+      text: Email
+      href: mailto:luciaviola@gmail.com
+      
+
 
 
 
