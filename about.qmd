@@ -2,9 +2,8 @@
 title: "About me"
 lightbox: true 
 ---
-## edit photo sizes?
 
-I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my two dogs and tortoise! 
+I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my family, two dogs and tortoise! 
 
 Cleo
 ![cleo](images/cleo.png)
@@ -23,10 +22,24 @@ Kona- Melanistic Red Fox
 ![kona](images/kona.png)
 Sweetcheeks- Red Tegu 
 ![sweets](images/sweets.PNG)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 660616b33d5c4246d4751c461b83e12eb6a5e9e0
 Alby- North American Porcupine
 ![alby](images/alby.png)
 Ruger- Giraffe
 ![ruger](images/ruger.png)
 Topanga- Gopher Snake 
 ![topanga](images/topanga.png)
+<<<<<<< HEAD
+=======
+
+## Concerts 
+
+I love concerts, and I try to go to as many as possible! My favorite is Camp Flog Gnaw, which is a yearly festival put on by Tyler, the Creator at Dodger stadium. I have gone for the last three years and plan to be there again this November. Some pictures from 2025 (of A\$AP Rocky and Childish Gambino) are below!
+
+![Childish Gambino](images/gambino.JPG){group="cfg"} 
+![A$AP Rocky](images/rocky.png){group="cfg"}
+>>>>>>> 660616b33d5c4246d4751c461b83e12eb6a5e9e0
 
