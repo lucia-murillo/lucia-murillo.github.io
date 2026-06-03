@@ -8,21 +8,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - hobbies.qmd
-      - projects.qmd
-      - resume.qmd 
+      - text: About me
+        href: about.qmd
+      - text: Hobbies
+        href: hobbies.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd 
 
 format:
   html:
-    theme: 
-    - morph 
-    - brand
-    - styles.scss
-    mainfont: Noto Serif
+    theme: styles.scss
+    mainfont: "Noto Serif"
     toc: true
-    page-layout: full 
-    
+    page-layout: full
 links:
     - icon: linkedin 
       text: LinkedIn
