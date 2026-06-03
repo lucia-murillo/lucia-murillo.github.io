@@ -22,8 +22,7 @@ Kona- Melanistic Red Fox
 ![kona](images/kona.png)
 Sweetcheeks- Red Tegu 
 ![sweets](images/sweets.PNG)
-<<<<<<< HEAD
-=======
+
 
 >>>>>>> 660616b33d5c4246d4751c461b83e12eb6a5e9e0
 Alby- North American Porcupine
@@ -32,8 +31,6 @@ Ruger- Giraffe
 ![ruger](images/ruger.png)
 Topanga- Gopher Snake 
 ![topanga](images/topanga.png)
-<<<<<<< HEAD
-=======
 
 ## Concerts 
 
@@ -41,5 +38,4 @@ I love concerts, and I try to go to as many as possible! My favorite is Camp Flo
 
 ![Childish Gambino](images/gambino.JPG){group="cfg"} 
 ![A$AP Rocky](images/rocky.png){group="cfg"}
->>>>>>> 660616b33d5c4246d4751c461b83e12eb6a5e9e0
 
