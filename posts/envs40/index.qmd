@@ -5,7 +5,7 @@ author: Lucia Murillo
 image: posts/envs40/envs40.png
 resources: 
   - envs40.pdf
-  - envs40-slildes.pdf
+  - envs40-slides.pdf
 ---
 
 Lucia Murillo 
