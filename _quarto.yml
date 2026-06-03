@@ -15,13 +15,15 @@ website:
       - text: Hobbies
         href: hobbies.qmd
       - text: Projects
-        href: projects.qmd
+        href: posts/projects.qmd
       - text: Resume
         href: resume.qmd 
 
 format:
   html:
-    theme: styles.scss
+    theme: 
+    - morph
+    - styles.scss
     mainfont: "Noto Serif"
     toc: true
     page-layout: full

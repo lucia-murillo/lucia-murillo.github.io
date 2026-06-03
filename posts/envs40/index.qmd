@@ -1,0 +1,17 @@
+---
+title: "ENVS 40 Project Proposal"
+description: "This is a proposal for a tide pool field trip for second graders." 
+author: Lucia Murillo 
+image: envs40.png
+resources: 
+  - envs40.pdf
+---
+
+Lucia Murillo 
+10-29-2024 
+ENVS 40, Wednesday 10AM section 
+
+Project Overview: 
+For this project, creared a lesson plan for elementary school students about tide pools. This included an overview of the ecosystem, information on common species found in tide pools, and instruction on how to explore them in a way that is safe for both the students themselves and the creatures and ecosystems they are observing. 
+The whole proposal can be seen below. 
+<iframe src="envs40.pdf" width="100%" height="600px"></iframe> 
