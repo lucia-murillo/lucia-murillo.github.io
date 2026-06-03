@@ -13,7 +13,7 @@ Los Angeles), CA along with my family, two dogs and tortoise!
 
 ![](images/family.jpg)
 
-![cleo](images/cleo.png){width="150"}![sonny](images/sonny.png){width="135"}![herb](images/herb.png){width="129"}
+![cleo](images/cleo.png){width="250"}![sonny](images/sonny.png){width="250"}![herb](images/herb.png){width="150"}
 
 Cleo, Sonny, and Herb (left to right)
 
