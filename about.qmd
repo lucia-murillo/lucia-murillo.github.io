@@ -1,41 +1,59 @@
 ---
 title: "About me"
 lightbox: true 
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-I am currently living in Isla Vista, CA, but I am from Pasadena (near Los Angeles), CA along with my family, two dogs and tortoise! 
+## My pets and family
 
-Cleo
-![cleo](images/cleo.png)
+I am currently living in Isla Vista, CA, but I am from Pasadena (near
+Los Angeles), CA along with my family, two dogs and tortoise!
 
-Sonny
-![sonny](images/sonny.png)
+![](images/family.jpg)
 
-Herb
-![herb](images/herb.png)
+![cleo](images/cleo.png){width="150"}![sonny](images/sonny.png){width="135"}![herb](images/herb.png){width="129"}
+
+Cleo, Sonny, and Herb (left to right)
 
 ## Goals
 
-I am a huge animal lover, and really interested in working with animals or researching them in the future. I also have a strong interest in education, and have spent my last three summers working at summer camps, along with taking classes in outdoor education. Last summer I also interned at the Wildlife Learning Center, a rescue for animals that are deemed non-releasable. I loved my experience, and included some of my favorite "coworkers" below. 
+I am a huge animal lover, and really interested in working with animals
+or researching them in the future. I also have a strong interest in
+education, and have spent my last three summers working at summer camps,
+along with taking classes in outdoor education. Last summer I also
+interned at the Wildlife Learning Center, a rescue for animals that are
+deemed non-releasable. I loved my experience, and included some of my
+favorite "coworkers" below.
 
-Kona- Melanistic Red Fox 
-![kona](images/kona.png)
-Sweetcheeks- Red Tegu 
-![sweets](images/sweets.PNG)
+Kona- Melanistic Red Fox
 
+![](images/kona.png){width="250"}
 
->>>>>>> 660616b33d5c4246d4751c461b83e12eb6a5e9e0
-Alby- North American Porcupine
-![alby](images/alby.png)
+Sweetcheeks- Red Tegu
+
+![](images/sweets.PNG){width="215"}
+
+Alby- North American Porcupine (seen enjoying some sweet potato)
+
+![](images/alby.png){width="250"}
+
 Ruger- Giraffe
-![ruger](images/ruger.png)
-Topanga- Gopher Snake 
-![topanga](images/topanga.png)
 
-## Concerts 
+![](images/ruger.png){width="250"}
 
-I love concerts, and I try to go to as many as possible! My favorite is Camp Flog Gnaw, which is a yearly festival put on by Tyler, the Creator at Dodger stadium. I have gone for the last three years and plan to be there again this November. Some pictures from 2025 (of A\$AP Rocky and Childish Gambino) are below!
+Topanga- Gopher snake
 
-![Childish Gambino](images/gambino.JPG){group="cfg"} 
-![A$AP Rocky](images/rocky.png){group="cfg"}
+![](images/topanga.png){width="250" height="429"}
 
+## Concerts
+
+I love concerts, and I try to go to as many as possible! My favorite is
+Camp Flog Gnaw, which is a yearly festival put on by Tyler, the Creator
+at Dodger stadium. I have gone for the last three years and plan to be
+there again this November. Some pictures from 2025 (of A\$AP Rocky and
+Childish Gambino) are below!
+
+![Childish Gambino](images/gambino.JPG){group="cfg" width="500"} ![A\$AP
+Rocky](images/rocky.png){group="cfg"}

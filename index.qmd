@@ -4,7 +4,6 @@ image: images/climb.JPG
 toc: false 
 about:
   template: trestles
-  image: rounded
   links:
     - text: LinkedIn
       href: www.linkedin.com/in/lucia-murillo-34b604240
