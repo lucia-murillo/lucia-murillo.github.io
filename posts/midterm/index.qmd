@@ -1,0 +1,12 @@
+---
+title: "ENVS 193DS Midterm"
+description: "This is my midterm project for ENVS 193DS: Statistics for Environmental Science." 
+author: Lucia Murillo
+image: /posts/midterm/midterm.png
+resources: 
+  - midterm.pdf
+---
+The directions for this midterm can be found [here](https://spring-2026.envs-193ds.com/assignments/midterm) on the course website. 
+
+<iframe src="midterm.pdf" width="100%" height="600px"></iframe> 
+

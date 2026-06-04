@@ -49,11 +49,18 @@
     "text": "Coffee and pastries (my top recommendations)\nI have recently been very into cinnamon rolls and I love to go out for coffee or tea in the mornings! Here are my top places at home and at school.\n\nPasadena\nBadash Bakes- matcha and classic cinnamon rolls \nJones Coffee- home of my favorite chai latte ever! \n\n\nSanta Barbara\nBrass Bird- my current favorite cinnamon roll, accompanied by a cinnamon roll latte and a strawberry matcha latte (all delicious)"
   },
   {
+    "objectID": "posts/midterm/index.html",
+    "href": "posts/midterm/index.html",
+    "title": "ENVS 193DS Midterm",
+    "section": "",
+    "text": "The directions for this midterm can be found here on the course website."
+  },
+  {
     "objectID": "posts/projects.html",
     "href": "posts/projects.html",
     "title": "Projects",
     "section": "",
-    "text": "ENVS 40 Project Proposal\n\n\nThis is a proposal for a tide pool field trip for second graders.\n\n\n\nLucia Murillo\n\n\n\n\n\n\nNo matching items"
+    "text": "ENVS 40 Project Proposal\n\n\nThis is a proposal for a tide pool field trip for second graders.\n\n\n\nLucia Murillo\n\n\n\n\n\n\n\n\n\n\n\n\n\nENVS 193DS Midterm\n\n\nThis is my midterm project for ENVS 193DS: Statistics for Environmental Science.\n\n\n\nLucia Murillo\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/envs40/index.html",
@@ -63,17 +70,17 @@
     "text": "Lucia Murillo 10-29-2024 ENVS 40, Wednesday 10AM section\nProject Overview: For this project, I created a lesson plan for elementary school students to learn about tide pools. This included an overview of the ecosystem, information on common species found in tide pools, and instruction on how to explore them in a way that is safe for both the students and the creatures and ecosystems they are observing. The whole proposal along with the associated slideshow can be seen below."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lucia Murillo",
-    "section": "",
-    "text": "Hello, thanks for visiting my page! My name is Lucia Murillo, and I am from Pasadena, CA. I am currently working on completing my Bachelors of Science in Environmental Studies at UC Santa Barbara with a plan of concentrating in Marine Science. This website acts as a portfolio of the skills I have gained while at UCSB as well as a view into my life and interests!"
-  },
-  {
     "objectID": "climb-map.html",
     "href": "climb-map.html",
     "title": "climb map creation",
     "section": "",
     "text": "library(sf)            \n\nLinking to GEOS 3.13.0, GDAL 3.8.5, PROJ 9.5.1; sf_use_s2() is TRUE\n\nlibrary(dplyr)          \n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(leaflet)       \nlibrary(htmltools)     \nlibrary(rnaturalearth)  \nlibrary(leaflet.extras)\nlibrary(htmlwidgets)\n\nmap &lt;- leaflet(elementId = \"climb_map\") |&gt; \n  addTiles() |&gt; \n  setView(lat = 34.05,\n          lng = -118.24,\n          zoom = 6.2\n          ) |&gt; \n  addProviderTiles(providers$OpenStreetMap.DE) |&gt; \n  addCircleMarkers(\n    lat = c(34.4379, 34.53706, 35.4436, 34.16477, 34.03918, 33.9141),\n    lng = c(-119.7891, -120.03997, -120.8231, -118.15031, -118.23445, -115.83981),\n    color = \"purple\"\n)\nsaveWidget(map, file = \"climb_map.html\", selfcontained = TRUE)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lucia Murillo",
+    "section": "",
+    "text": "Hello, thanks for visiting my page! My name is Lucia Murillo, and I am from Pasadena, CA. I am currently working on completing my Bachelors of Science in Environmental Studies at UC Santa Barbara planning to concentrate in Marine Science. This website acts as a portfolio of the skills I have gained while at UCSB as well as a view into my life and interests!"
   }
 ]

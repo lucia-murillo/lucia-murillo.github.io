@@ -3,6 +3,7 @@ title: "Projects"
 listing: 
   contents: 
   - "envs40/index.qmd"
+  - "midterm/index.qmd"
   type: grid
   sort: "date desc"
   categories: true
