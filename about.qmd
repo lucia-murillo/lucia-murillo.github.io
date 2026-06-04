@@ -11,9 +11,9 @@ editor:
 I am currently living in Isla Vista, CA, but I am from Pasadena (near
 Los Angeles), CA along with my family, two dogs and tortoise!
 
-![](images/family.jpg)
+![](images/family.jpg){width="500" height="600"}
 
-![cleo](images/cleo.png){width="250"}![sonny](images/sonny.png){width="250"}![herb](images/herb.png){width="150"}
+![cleo](images/cleo.png){width="250" height="350"}![sonny](images/sonny.png){width="250" height="350"}![herb](images/herb.png){width="250" height="350"}
 
 Cleo, Sonny, and Herb (left to right)
 
@@ -33,7 +33,7 @@ Kona- Melanistic Red Fox
 
 Sweetcheeks- Red Tegu
 
-![](images/sweets.PNG){width="215"}
+![](images/sweets.PNG){width="250"}
 
 Alby- North American Porcupine (seen enjoying some sweet potato)
 
@@ -55,5 +55,5 @@ at Dodger stadium. I have gone for the last three years and plan to be
 there again this November. Some pictures from 2025 (of A\$AP Rocky and
 Childish Gambino) are below!
 
-![Childish Gambino](images/gambino.JPG){group="cfg" width="500"} ![A\$AP
-Rocky](images/rocky.png){group="cfg" width="500"}
+![Childish Gambino](images/gambino.JPG){group="cfg" width="500" height="600"} ![A\$AP
+Rocky](images/rocky.png){group="cfg" width="500" height="600"}
