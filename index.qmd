@@ -3,7 +3,7 @@ title: "Lucia Murillo"
 image: images/climb.JPG
 toc: false 
 about:
-  template: trestles
+  template: jolla
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/lucia-murillo-34b604240
