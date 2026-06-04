@@ -6,6 +6,7 @@ image: /posts/envs40/envs40.png
 resources: 
   - envs40.pdf
   - envs40-slides.pdf
+categories: [Writing, Education]
 ---
 
 Lucia Murillo 

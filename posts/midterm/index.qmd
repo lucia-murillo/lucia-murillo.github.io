@@ -5,6 +5,7 @@ author: Lucia Murillo
 image: /posts/midterm/midterm.png
 resources: 
   - midterm.pdf
+categories: [RStudio]
 ---
 The directions for this midterm can be found [here](https://spring-2026.envs-193ds.com/assignments/midterm) on the course website. 
 
