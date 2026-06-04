@@ -1,0 +1,30 @@
+---
+title: "climb map creation"
+editor: source
+---
+```{r}
+#| label: set-up
+
+library(sf)            
+library(dplyr)          
+library(leaflet)       
+library(htmltools)     
+library(rnaturalearth)  
+library(leaflet.extras)
+library(htmlwidgets)
+
+map <- leaflet(elementId = "climb_map") |> 
+  addTiles() |> 
+  setView(lat = 34.05,
+          lng = -118.24,
+          zoom = 6.2
+          ) |> 
+  addProviderTiles(providers$OpenStreetMap.DE) |> 
+  addCircleMarkers(
+    lat = c(34.4379, 34.53706, 35.4436, 34.16477, 34.03918, 33.9141),
+    lng = c(-119.7891, -120.03997, -120.8231, -118.15031, -118.23445, -115.83981),
+    color = "purple"
+)
+saveWidget(map, file = "climb_map.html", selfcontained = TRUE)
+```
+

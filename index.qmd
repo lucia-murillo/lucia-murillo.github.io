@@ -6,7 +6,7 @@ about:
   template: trestles
   links:
     - text: LinkedIn
-      href: www.linkedin.com/in/lucia-murillo-34b604240
+      href: https://www.linkedin.com/in/lucia-murillo-34b604240
       target: _blank
     - text: GitHub
       href: https://github.com/lucia-murillo

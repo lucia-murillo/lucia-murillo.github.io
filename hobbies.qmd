@@ -2,11 +2,23 @@
 title: "My hobbies and interests"
 editor: visual
 lightbox: true 
+embed-resources: true
 ---
 
 ## Rock climbing
 
-I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I have gone to Joshua Tree the past two winters to climb outdoors.
+I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I am currently on hiatus because of an injury, but I am excited to get back to it soon.  Below is a map of everywhere I have climbed, including gyms and outdoor boulders with more to come! 
+
+```{r}
+#| label: show-map
+#| echo: false
+htmltools::tags$iframe(
+  src = "climb_map.html",
+  width = "100%",
+  height = "500px",
+  frameborder = "0")
+
+```
 
 ## Coffee and pastries (my top recommendations)
 

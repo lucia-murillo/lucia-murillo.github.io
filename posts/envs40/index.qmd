@@ -2,7 +2,7 @@
 title: "ENVS 40 Project Proposal"
 description: "This is a proposal for a tide pool field trip for second graders." 
 author: Lucia Murillo 
-image: posts/envs40/envs40.png
+image: /posts/envs40/envs40.png
 resources: 
   - envs40.pdf
   - envs40-slides.pdf

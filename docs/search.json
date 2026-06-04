@@ -32,14 +32,14 @@
     "href": "hobbies.html",
     "title": "My hobbies and interests",
     "section": "",
-    "text": "I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I have gone to Joshua Tree the past two winters to climb outdoors."
+    "text": "I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I am currently on hiatus because of an injury, but I am excited to get back to it soon. Below is a map of everywhere I have climbed, including gyms and outdoor boulders with more to come!"
   },
   {
     "objectID": "hobbies.html#rock-climbing",
     "href": "hobbies.html#rock-climbing",
     "title": "My hobbies and interests",
     "section": "",
-    "text": "I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I have gone to Joshua Tree the past two winters to climb outdoors."
+    "text": "I have been rock climbing for about 2 years now, and have found it to be a great way to stay active. I am currently on hiatus because of an injury, but I am excited to get back to it soon. Below is a map of everywhere I have climbed, including gyms and outdoor boulders with more to come!"
   },
   {
     "objectID": "hobbies.html#coffee-and-pastries-my-top-recommendations",
@@ -68,5 +68,12 @@
     "title": "Lucia Murillo",
     "section": "",
     "text": "Hello, thanks for visiting my page! My name is Lucia Murillo, and I am from Pasadena, CA. I am currently working on completing my Bachelors of Science in Environmental Studies at UC Santa Barbara with a plan of concentrating in Marine Science. This website acts as a portfolio of the skills I have gained while at UCSB as well as a view into my life and interests!"
+  },
+  {
+    "objectID": "climb-map.html",
+    "href": "climb-map.html",
+    "title": "climb map creation",
+    "section": "",
+    "text": "library(sf)            \n\nLinking to GEOS 3.13.0, GDAL 3.8.5, PROJ 9.5.1; sf_use_s2() is TRUE\n\nlibrary(dplyr)          \n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(leaflet)       \nlibrary(htmltools)     \nlibrary(rnaturalearth)  \nlibrary(leaflet.extras)\nlibrary(htmlwidgets)\n\nmap &lt;- leaflet(elementId = \"climb_map\") |&gt; \n  addTiles() |&gt; \n  setView(lat = 34.05,\n          lng = -118.24,\n          zoom = 6.2\n          ) |&gt; \n  addProviderTiles(providers$OpenStreetMap.DE) |&gt; \n  addCircleMarkers(\n    lat = c(34.4379, 34.53706, 35.4436, 34.16477, 34.03918, 33.9141),\n    lng = c(-119.7891, -120.03997, -120.8231, -118.15031, -118.23445, -115.83981),\n    color = \"purple\"\n)\nsaveWidget(map, file = \"climb_map.html\", selfcontained = TRUE)"
   }
 ]
